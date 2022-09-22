@@ -180,6 +180,7 @@ export default function Footer() {
           </div>
         </div> */}
         <div className="footer-middle row p-0 m-0 pt-5">
+          <div>Test fsadfas fasdf adfasd asdfa sdf</div>
           {midFooterList.map((items, index) => {
             return (
               <div
